@@ -1,3 +1,4 @@
+// array de produtos
 export const listaProdutos = [
     {
         id: 1,
